@@ -1,3 +1,6 @@
 const chalk = require("chalk");
 
-console.log(chalk.green("Hello! It's me, Michael Scott!"));
+module.exports.hello = () => {
+    console.log(chalk.green("Hello! It's me, Michael Scott!"));
+};
+
