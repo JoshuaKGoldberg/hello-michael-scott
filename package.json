@@ -1,10 +1,14 @@
 {
   "author": "Michael Scott",
   "description": "Sample repository for GGV. Hello!",
-  "keywords": ["hello", "michael scott", "open source"],
+  "keywords": [
+    "hello",
+    "michael scott",
+    "open source"
+  ],
   "license": "MIT",
   "main": "index.js",
   "name": "hello-michael-scott",
   "repository": "https://github.com/JoshuaKGoldberg/hello-michael-scott",
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
