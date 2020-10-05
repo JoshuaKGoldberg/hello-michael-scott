@@ -1,5 +1,8 @@
 {
   "author": "Michael Scott",
+  "bin": {
+    "hello-michael-scott": "bin/hello-michael-scott"
+  },
   "description": "Sample repository for GGV. Hello!",
   "keywords": [
     "hello",
