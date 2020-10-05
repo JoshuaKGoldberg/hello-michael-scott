@@ -4,6 +4,9 @@
     "hello-michael-scott": "bin/hello-michael-scott"
   },
   "description": "Sample repository for GGV. Hello!",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
   "keywords": [
     "hello",
     "michael scott",

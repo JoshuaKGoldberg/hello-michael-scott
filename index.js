@@ -1,1 +1,3 @@
-console.log("Hello! It's me, Michael Scott!");
+const chalk = require("chalk");
+
+console.log(chalk.green("Hello! It's me, Michael Scott!"));
